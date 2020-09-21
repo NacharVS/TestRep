@@ -5,9 +5,9 @@ class Programm
 {
 	static void Main(string[] args)
 	{
-	string a = "Hello!";
+	string a = "Hello ";
+	string b = "world!";
 	Console.WriteLine(a);
-	
 	}
 }
 }
